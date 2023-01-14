@@ -81,6 +81,7 @@ font-style: normal;
 font-weight: 600;
 font-size: 12px;
 line-height: 23px;
+margin-right: 9px;
 text-align: center;
 color: #FFFFFF;
 }
@@ -326,7 +327,7 @@ border-radius: 8px;
 padding-top: 5px;
 
 
-  font-family: 'Work Sans';
+  font-family: 'Work Sans', sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 45px;
@@ -401,7 +402,7 @@ padding-top: 5px;
 .sub-branding-details{
 text-align: center;
 
-font-family: 'Work Sans';
+font-family: 'Work Sans', sans-serif;
 font-style: normal;
 font-weight: 600;
 font-size: 16px;
@@ -413,7 +414,7 @@ margin-top: -30px;
   color: #1a1818;
   text-align: center;
   font-size: 45px;
-font-family: 'Work Sans';
+font-family: 'Work Sans', sans-serif;
 font-style: normal;
 font-weight: 600;
 font-size: 20px;
@@ -441,7 +442,7 @@ padding-top: 50px;
 .sponspors-title{
   
 text-align: center;
-font-family: 'Work Sans';
+font-family: 'Work Sans', sans-serif;
 font-style: normal;
 font-weight: 700;
 font-size: 35px;
@@ -454,7 +455,7 @@ margin-bottom: 25px;
 
 .sponspors-info{
   
-font-family: 'Work Sans';
+font-family: 'Work Sans', sans-serif;
 font-style: normal;
 font-weight: 400;
 font-size: 16px;
@@ -496,9 +497,9 @@ color: #727272;
   padding-bottom: 200px;
 }
 .footer{
-  width: 640px;
+  width: 840px;
 height: 80px;
-margin-left: 370px;
+margin-left: 260px;
 
 background: #FFF4E7;
 border-radius: 8px;
@@ -507,7 +508,7 @@ border-radius: 8px;
 .footer-info{
 padding-top: 26px;
 
-font-family: 'Work Sans';
+font-family: 'Work Sans', sans-serif;
 font-style: normal;
 font-weight: 400;
 font-size: 20px;
